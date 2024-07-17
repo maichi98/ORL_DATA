@@ -1,0 +1,88 @@
+2024-07-17 15:04:54 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P1  -----------------------------------
+2024-07-17 15:04:54 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P1...
+2024-07-17 15:04:54 |     generate_phantoms |    DEBUG | Patient characteristics for patient AGORL_P1 created successfully in 0.00 seconds
+2024-07-17 15:04:54 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P1
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Segmentation to XYZ for patient AGORL_P1 created successfully in 10.45 seconds
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P1 : 0.18 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-17 15:05:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P2  -----------------------------------
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P2...
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Patient characteristics for patient AGORL_P2 created successfully in 0.00 seconds
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P2
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create contours for patient AGORL_P2 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | No NIFTI segmentation found for patient AGORL_P2 !
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P2 : 0.00 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-17 15:05:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P3  -----------------------------------
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P3...
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Patient characteristics for patient AGORL_P3 created successfully in 0.00 seconds
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P3
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create contours for patient AGORL_P3 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | No NIFTI segmentation found for patient AGORL_P3 !
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P3 : 0.00 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-17 15:05:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P4  -----------------------------------
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P4...
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Patient characteristics for patient AGORL_P4 created successfully in 0.00 seconds
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P4
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create contours for patient AGORL_P4 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | No NIFTI segmentation found for patient AGORL_P4 !
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P4 : 0.00 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-17 15:05:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P5  -----------------------------------
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P5...
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Patient characteristics for patient AGORL_P5 created successfully in 0.00 seconds
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P5
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create contours for patient AGORL_P5 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | No NIFTI segmentation found for patient AGORL_P5 !
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P5 : 0.00 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-17 15:05:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P6  -----------------------------------
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P6...
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Patient characteristics for patient AGORL_P6 created successfully in 0.00 seconds
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P6
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create contours for patient AGORL_P6 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | No NIFTI segmentation found for patient AGORL_P6 !
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P6 : 0.00 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-17 15:05:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P7  -----------------------------------
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P7...
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Patient characteristics for patient AGORL_P7 created successfully in 0.00 seconds
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P7
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create contours for patient AGORL_P7 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | No NIFTI segmentation found for patient AGORL_P7 !
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P7 : 0.00 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-17 15:05:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P9  -----------------------------------
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P9...
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Patient characteristics for patient AGORL_P9 created successfully in 0.00 seconds
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P9
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create contours for patient AGORL_P9 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | No NIFTI segmentation found for patient AGORL_P9 !
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P9 : 0.00 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-17 15:05:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P10 -----------------------------------
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P10...
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create patient characteristics for patient AGORL_P10 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | The path /media/maichi/T7/workspace/AGORL_P10/CT_TO_TOTALSEGMENTATOR does not exist !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Traceback (most recent call last):
+  File "/home/maichi/work/my_projects/ORL_DATA/orl_data/generate_phantoms.py", line 25, in generate_patient_characteristics
+    df_patient_characteristics = get_patient_characteristics(dir_ct)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/maichi/work/my_projects/PhantomDose/phandose/patient/patient_characteristics.py", line 81, in get_patient_characteristics
+    raise FileNotFoundError(f"The path {path_imaging} does not exist !")
+FileNotFoundError: The path /media/maichi/T7/workspace/AGORL_P10/CT_TO_TOTALSEGMENTATOR does not exist !
+
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P10
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create contours for patient AGORL_P10 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | No NIFTI segmentation found for patient AGORL_P10 !
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P10 : 0.00 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-17 15:05:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P11 -----------------------------------
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Create patient characteristics for patient AGORL_P11...
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Patient characteristics for patient AGORL_P11 created successfully in 0.00 seconds
+2024-07-17 15:05:05 |     generate_phantoms |    DEBUG | Convert segmentation to XYZ... for patient AGORL_P11
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | Failed to create contours for patient AGORL_P11 !
+2024-07-17 15:05:05 |     generate_phantoms |    ERROR | No NIFTI segmentation found for patient AGORL_P11 !
+2024-07-17 15:05:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P11 : 0.00 minutes.
+2024-07-17 15:05:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------

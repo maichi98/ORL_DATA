@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="env_lysairi" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="env_lysairi" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="env_orl_data" project-jdk-type="Python SDK" />
 </project>

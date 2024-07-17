@@ -1,0 +1,6 @@
+numpy
+tqdm
+pydicom
+dicom2nifti
+totalsegmentator
+phandose

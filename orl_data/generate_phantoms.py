@@ -68,3 +68,7 @@ def generate_contours(patient: str):
         add_bad_patient(patient)
         logger.error(f"Failed to create contours for patient {patient} !")
         logger.error(e)
+
+
+def filter_phantoms(patient):
+    pass

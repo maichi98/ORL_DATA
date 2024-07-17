@@ -5,11 +5,10 @@ from orl_data import create_ct_to_totalsegmentator
 from orl_data import convert_dicom_to_nifti
 from orl_data import separate_patient_data
 from orl_data import generate_contours
-from orl_data import constants, utils
+from orl_data import utils
 
 
 from tqdm import tqdm
-import logging
 import time
 
 

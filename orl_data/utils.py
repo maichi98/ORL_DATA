@@ -29,7 +29,9 @@ def get_list_bad_patients() -> list[str]:
     with open(PATH_BAD_PATIENTS, 'r') as file:
         list_bad_patients = file.readlines()
 
-    return list_bad_patients
+    list_bad_patients = [patient.strip() for patient in list_bad_patients]
+
+    return list(set(list_bad_patients))
 
 
 def get_list_patients() -> list[str]:

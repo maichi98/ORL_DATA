@@ -5,3 +5,5 @@ from .generate_phantoms import generate_patient_characteristics
 from .run_totalsegmentator import convert_dicom_to_nifti
 from .separate_patient_data import separate_patient_data
 from .generate_phantoms import generate_contours
+from .generate_phantoms import needed_junctions
+from .generate_phantoms import filter_phantoms

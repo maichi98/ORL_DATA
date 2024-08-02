@@ -1,0 +1,915 @@
+2024-07-19 15:31:02 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P1  -----------------------------------
+2024-07-19 15:31:03 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:03 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:03 |              __main__ |    DEBUG | Time taken for patient AGORL_P1 : 0.01 minutes.
+2024-07-19 15:31:03 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:03 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P2  -----------------------------------
+2024-07-19 15:31:03 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:03 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:03 |              __main__ |    DEBUG | Time taken for patient AGORL_P2 : 0.01 minutes.
+2024-07-19 15:31:03 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:03 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P3  -----------------------------------
+2024-07-19 15:31:03 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:03 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:03 |              __main__ |    DEBUG | Time taken for patient AGORL_P3 : 0.00 minutes.
+2024-07-19 15:31:03 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:03 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P4  -----------------------------------
+2024-07-19 15:31:04 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:04 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:04 |              __main__ |    DEBUG | Time taken for patient AGORL_P4 : 0.01 minutes.
+2024-07-19 15:31:04 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:04 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P5  -----------------------------------
+2024-07-19 15:31:04 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:04 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:04 |              __main__ |    DEBUG | Time taken for patient AGORL_P5 : 0.00 minutes.
+2024-07-19 15:31:04 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:04 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P6  -----------------------------------
+2024-07-19 15:31:04 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:04 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:04 |              __main__ |    DEBUG | Time taken for patient AGORL_P6 : 0.00 minutes.
+2024-07-19 15:31:04 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:04 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P7  -----------------------------------
+2024-07-19 15:31:04 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:04 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:04 |              __main__ |    DEBUG | Time taken for patient AGORL_P7 : 0.00 minutes.
+2024-07-19 15:31:04 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:04 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P9  -----------------------------------
+2024-07-19 15:31:05 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:05 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P9 : 0.01 minutes.
+2024-07-19 15:31:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P11 -----------------------------------
+2024-07-19 15:31:05 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:05 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P11 : 0.00 minutes.
+2024-07-19 15:31:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P12 -----------------------------------
+2024-07-19 15:31:05 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:05 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:05 |              __main__ |    DEBUG | Time taken for patient AGORL_P12 : 0.00 minutes.
+2024-07-19 15:31:05 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:05 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P13 -----------------------------------
+2024-07-19 15:31:06 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:06 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:06 |              __main__ |    DEBUG | Time taken for patient AGORL_P13 : 0.00 minutes.
+2024-07-19 15:31:06 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:06 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P14 -----------------------------------
+2024-07-19 15:31:06 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:06 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:06 |              __main__ |    DEBUG | Time taken for patient AGORL_P14 : 0.00 minutes.
+2024-07-19 15:31:06 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:06 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P15 -----------------------------------
+2024-07-19 15:31:06 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:06 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:06 |              __main__ |    DEBUG | Time taken for patient AGORL_P15 : 0.01 minutes.
+2024-07-19 15:31:06 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:06 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P16 -----------------------------------
+2024-07-19 15:31:07 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:07 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:07 |              __main__ |    DEBUG | Time taken for patient AGORL_P16 : 0.01 minutes.
+2024-07-19 15:31:07 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:07 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P17 -----------------------------------
+2024-07-19 15:31:07 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:07 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:07 |              __main__ |    DEBUG | Time taken for patient AGORL_P17 : 0.01 minutes.
+2024-07-19 15:31:07 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:07 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P18 -----------------------------------
+2024-07-19 15:31:07 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:07 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:07 |              __main__ |    DEBUG | Time taken for patient AGORL_P18 : 0.01 minutes.
+2024-07-19 15:31:07 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:07 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P20 -----------------------------------
+2024-07-19 15:31:08 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:08 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:08 |              __main__ |    DEBUG | Time taken for patient AGORL_P20 : 0.01 minutes.
+2024-07-19 15:31:08 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:08 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P21 -----------------------------------
+2024-07-19 15:31:08 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:08 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:08 |              __main__ |    DEBUG | Time taken for patient AGORL_P21 : 0.00 minutes.
+2024-07-19 15:31:08 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:08 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P22 -----------------------------------
+2024-07-19 15:31:08 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:08 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:08 |              __main__ |    DEBUG | Time taken for patient AGORL_P22 : 0.00 minutes.
+2024-07-19 15:31:08 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:08 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P24 -----------------------------------
+2024-07-19 15:31:08 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:08 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:08 |              __main__ |    DEBUG | Time taken for patient AGORL_P24 : 0.00 minutes.
+2024-07-19 15:31:08 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:08 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P25 -----------------------------------
+2024-07-19 15:31:09 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:09 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:09 |              __main__ |    DEBUG | Time taken for patient AGORL_P25 : 0.00 minutes.
+2024-07-19 15:31:09 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:09 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P26 -----------------------------------
+2024-07-19 15:31:09 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:09 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:09 |              __main__ |    DEBUG | Time taken for patient AGORL_P26 : 0.00 minutes.
+2024-07-19 15:31:09 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:09 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P27 -----------------------------------
+2024-07-19 15:31:09 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:09 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:09 |              __main__ |    DEBUG | Time taken for patient AGORL_P27 : 0.00 minutes.
+2024-07-19 15:31:09 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:09 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P28 -----------------------------------
+2024-07-19 15:31:09 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:10 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:10 |              __main__ |    DEBUG | Time taken for patient AGORL_P28 : 0.01 minutes.
+2024-07-19 15:31:10 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:10 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P29 -----------------------------------
+2024-07-19 15:31:10 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:10 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:10 |              __main__ |    DEBUG | Time taken for patient AGORL_P29 : 0.01 minutes.
+2024-07-19 15:31:10 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:10 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P30 -----------------------------------
+2024-07-19 15:31:10 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:10 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:10 |              __main__ |    DEBUG | Time taken for patient AGORL_P30 : 0.00 minutes.
+2024-07-19 15:31:10 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:10 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P31 -----------------------------------
+2024-07-19 15:31:10 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:10 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:10 |              __main__ |    DEBUG | Time taken for patient AGORL_P31 : 0.00 minutes.
+2024-07-19 15:31:10 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:10 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P32 -----------------------------------
+2024-07-19 15:31:11 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:11 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:11 |              __main__ |    DEBUG | Time taken for patient AGORL_P32 : 0.00 minutes.
+2024-07-19 15:31:11 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:11 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P33 -----------------------------------
+2024-07-19 15:31:11 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:11 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:11 |              __main__ |    DEBUG | Time taken for patient AGORL_P33 : 0.01 minutes.
+2024-07-19 15:31:11 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:11 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P34 -----------------------------------
+2024-07-19 15:31:11 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:11 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:11 |              __main__ |    DEBUG | Time taken for patient AGORL_P34 : 0.01 minutes.
+2024-07-19 15:31:11 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:11 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P35 -----------------------------------
+2024-07-19 15:31:12 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:12 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:12 |              __main__ |    DEBUG | Time taken for patient AGORL_P35 : 0.00 minutes.
+2024-07-19 15:31:12 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:12 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P36 -----------------------------------
+2024-07-19 15:31:12 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:12 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:12 |              __main__ |    DEBUG | Time taken for patient AGORL_P36 : 0.01 minutes.
+2024-07-19 15:31:12 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:12 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P37 -----------------------------------
+2024-07-19 15:31:12 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:12 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:12 |              __main__ |    DEBUG | Time taken for patient AGORL_P37 : 0.01 minutes.
+2024-07-19 15:31:12 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:12 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P38 -----------------------------------
+2024-07-19 15:31:12 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:12 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:12 |              __main__ |    DEBUG | Time taken for patient AGORL_P38 : 0.00 minutes.
+2024-07-19 15:31:12 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:12 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P39 -----------------------------------
+2024-07-19 15:31:13 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:13 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:13 |              __main__ |    DEBUG | Time taken for patient AGORL_P39 : 0.00 minutes.
+2024-07-19 15:31:13 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:13 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P40 -----------------------------------
+2024-07-19 15:31:13 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:13 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:13 |              __main__ |    DEBUG | Time taken for patient AGORL_P40 : 0.01 minutes.
+2024-07-19 15:31:13 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:13 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P41 -----------------------------------
+2024-07-19 15:31:13 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:13 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:13 |              __main__ |    DEBUG | Time taken for patient AGORL_P41 : 0.00 minutes.
+2024-07-19 15:31:13 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:13 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P42 -----------------------------------
+2024-07-19 15:31:14 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:14 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:14 |              __main__ |    DEBUG | Time taken for patient AGORL_P42 : 0.01 minutes.
+2024-07-19 15:31:14 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:14 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P43 -----------------------------------
+2024-07-19 15:31:14 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:14 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:14 |              __main__ |    DEBUG | Time taken for patient AGORL_P43 : 0.00 minutes.
+2024-07-19 15:31:14 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:14 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P44 -----------------------------------
+2024-07-19 15:31:14 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:14 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:14 |              __main__ |    DEBUG | Time taken for patient AGORL_P44 : 0.00 minutes.
+2024-07-19 15:31:14 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:14 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P45 -----------------------------------
+2024-07-19 15:31:14 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:14 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:14 |              __main__ |    DEBUG | Time taken for patient AGORL_P45 : 0.00 minutes.
+2024-07-19 15:31:14 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:14 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P46 -----------------------------------
+2024-07-19 15:31:15 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:15 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:15 |              __main__ |    DEBUG | Time taken for patient AGORL_P46 : 0.00 minutes.
+2024-07-19 15:31:15 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:15 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P47 -----------------------------------
+2024-07-19 15:31:15 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:15 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:15 |              __main__ |    DEBUG | Time taken for patient AGORL_P47 : 0.00 minutes.
+2024-07-19 15:31:15 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:15 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P48 -----------------------------------
+2024-07-19 15:31:15 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:15 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:15 |              __main__ |    DEBUG | Time taken for patient AGORL_P48 : 0.00 minutes.
+2024-07-19 15:31:15 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:15 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P49 -----------------------------------
+2024-07-19 15:31:15 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:15 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:15 |              __main__ |    DEBUG | Time taken for patient AGORL_P49 : 0.01 minutes.
+2024-07-19 15:31:15 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:15 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P50 -----------------------------------
+2024-07-19 15:31:16 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:16 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:16 |              __main__ |    DEBUG | Time taken for patient AGORL_P50 : 0.00 minutes.
+2024-07-19 15:31:16 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:16 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P51 -----------------------------------
+2024-07-19 15:31:16 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:16 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:16 |              __main__ |    DEBUG | Time taken for patient AGORL_P51 : 0.00 minutes.
+2024-07-19 15:31:16 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:16 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P52 -----------------------------------
+2024-07-19 15:31:16 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:16 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:16 |              __main__ |    DEBUG | Time taken for patient AGORL_P52 : 0.00 minutes.
+2024-07-19 15:31:16 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:16 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P53 -----------------------------------
+2024-07-19 15:31:17 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:17 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:17 |              __main__ |    DEBUG | Time taken for patient AGORL_P53 : 0.01 minutes.
+2024-07-19 15:31:17 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:17 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P54 -----------------------------------
+2024-07-19 15:31:17 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:17 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:17 |              __main__ |    DEBUG | Time taken for patient AGORL_P54 : 0.01 minutes.
+2024-07-19 15:31:17 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:17 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P55 -----------------------------------
+2024-07-19 15:31:17 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:17 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:17 |              __main__ |    DEBUG | Time taken for patient AGORL_P55 : 0.00 minutes.
+2024-07-19 15:31:17 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:17 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P56 -----------------------------------
+2024-07-19 15:31:17 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:17 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:17 |              __main__ |    DEBUG | Time taken for patient AGORL_P56 : 0.00 minutes.
+2024-07-19 15:31:17 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:17 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P58 -----------------------------------
+2024-07-19 15:31:18 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:18 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:18 |              __main__ |    DEBUG | Time taken for patient AGORL_P58 : 0.00 minutes.
+2024-07-19 15:31:18 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:18 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P59 -----------------------------------
+2024-07-19 15:31:18 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:18 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:18 |              __main__ |    DEBUG | Time taken for patient AGORL_P59 : 0.01 minutes.
+2024-07-19 15:31:18 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:18 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P60 -----------------------------------
+2024-07-19 15:31:18 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:18 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:18 |              __main__ |    DEBUG | Time taken for patient AGORL_P60 : 0.01 minutes.
+2024-07-19 15:31:18 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:18 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P61 -----------------------------------
+2024-07-19 15:31:19 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:19 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:19 |              __main__ |    DEBUG | Time taken for patient AGORL_P61 : 0.01 minutes.
+2024-07-19 15:31:19 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:19 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P62 -----------------------------------
+2024-07-19 15:31:19 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:19 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:19 |              __main__ |    DEBUG | Time taken for patient AGORL_P62 : 0.00 minutes.
+2024-07-19 15:31:19 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:19 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P63 -----------------------------------
+2024-07-19 15:31:19 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:19 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:19 |              __main__ |    DEBUG | Time taken for patient AGORL_P63 : 0.01 minutes.
+2024-07-19 15:31:19 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:19 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P64 -----------------------------------
+2024-07-19 15:31:20 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:20 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:20 |              __main__ |    DEBUG | Time taken for patient AGORL_P64 : 0.01 minutes.
+2024-07-19 15:31:20 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:20 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P65 -----------------------------------
+2024-07-19 15:31:20 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:20 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:20 |              __main__ |    DEBUG | Time taken for patient AGORL_P65 : 0.01 minutes.
+2024-07-19 15:31:20 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:20 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P66 -----------------------------------
+2024-07-19 15:31:21 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:21 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:21 |              __main__ |    DEBUG | Time taken for patient AGORL_P66 : 0.01 minutes.
+2024-07-19 15:31:21 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:21 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P67 -----------------------------------
+2024-07-19 15:31:21 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:21 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:21 |              __main__ |    DEBUG | Time taken for patient AGORL_P67 : 0.01 minutes.
+2024-07-19 15:31:21 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:21 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P68 -----------------------------------
+2024-07-19 15:31:21 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:21 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:21 |              __main__ |    DEBUG | Time taken for patient AGORL_P68 : 0.00 minutes.
+2024-07-19 15:31:21 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:21 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P69 -----------------------------------
+2024-07-19 15:31:21 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:21 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:21 |              __main__ |    DEBUG | Time taken for patient AGORL_P69 : 0.01 minutes.
+2024-07-19 15:31:21 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:21 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P70 -----------------------------------
+2024-07-19 15:31:22 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:22 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:22 |              __main__ |    DEBUG | Time taken for patient AGORL_P70 : 0.01 minutes.
+2024-07-19 15:31:22 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:22 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P72 -----------------------------------
+2024-07-19 15:31:22 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:22 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:22 |              __main__ |    DEBUG | Time taken for patient AGORL_P72 : 0.00 minutes.
+2024-07-19 15:31:22 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:22 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P73 -----------------------------------
+2024-07-19 15:31:22 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:22 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:22 |              __main__ |    DEBUG | Time taken for patient AGORL_P73 : 0.01 minutes.
+2024-07-19 15:31:22 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:22 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P74 -----------------------------------
+2024-07-19 15:31:23 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:23 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:23 |              __main__ |    DEBUG | Time taken for patient AGORL_P74 : 0.01 minutes.
+2024-07-19 15:31:23 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:23 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P75 -----------------------------------
+2024-07-19 15:31:23 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:23 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:23 |              __main__ |    DEBUG | Time taken for patient AGORL_P75 : 0.00 minutes.
+2024-07-19 15:31:23 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:23 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P76 -----------------------------------
+2024-07-19 15:31:23 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:23 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:23 |              __main__ |    DEBUG | Time taken for patient AGORL_P76 : 0.00 minutes.
+2024-07-19 15:31:23 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:23 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P77 -----------------------------------
+2024-07-19 15:31:24 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:24 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:24 |              __main__ |    DEBUG | Time taken for patient AGORL_P77 : 0.01 minutes.
+2024-07-19 15:31:24 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:24 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P78 -----------------------------------
+2024-07-19 15:31:24 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:24 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:24 |              __main__ |    DEBUG | Time taken for patient AGORL_P78 : 0.01 minutes.
+2024-07-19 15:31:24 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:24 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P81 -----------------------------------
+2024-07-19 15:31:24 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:24 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:24 |              __main__ |    DEBUG | Time taken for patient AGORL_P81 : 0.01 minutes.
+2024-07-19 15:31:24 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:24 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P82 -----------------------------------
+2024-07-19 15:31:25 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:25 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:25 |              __main__ |    DEBUG | Time taken for patient AGORL_P82 : 0.00 minutes.
+2024-07-19 15:31:25 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:25 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P83 -----------------------------------
+2024-07-19 15:31:25 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:25 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:25 |              __main__ |    DEBUG | Time taken for patient AGORL_P83 : 0.01 minutes.
+2024-07-19 15:31:25 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:25 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P85 -----------------------------------
+2024-07-19 15:31:25 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:25 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:25 |              __main__ |    DEBUG | Time taken for patient AGORL_P85 : 0.01 minutes.
+2024-07-19 15:31:25 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:25 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P86 -----------------------------------
+2024-07-19 15:31:26 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:26 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:26 |              __main__ |    DEBUG | Time taken for patient AGORL_P86 : 0.01 minutes.
+2024-07-19 15:31:26 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:26 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P87 -----------------------------------
+2024-07-19 15:31:26 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:26 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:26 |              __main__ |    DEBUG | Time taken for patient AGORL_P87 : 0.00 minutes.
+2024-07-19 15:31:26 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:26 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P88 -----------------------------------
+2024-07-19 15:31:26 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:26 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:26 |              __main__ |    DEBUG | Time taken for patient AGORL_P88 : 0.00 minutes.
+2024-07-19 15:31:26 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:26 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P89 -----------------------------------
+2024-07-19 15:31:27 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:27 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:27 |              __main__ |    DEBUG | Time taken for patient AGORL_P89 : 0.00 minutes.
+2024-07-19 15:31:27 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:27 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P90 -----------------------------------
+2024-07-19 15:31:27 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:27 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:27 |              __main__ |    DEBUG | Time taken for patient AGORL_P90 : 0.01 minutes.
+2024-07-19 15:31:27 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:27 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P91 -----------------------------------
+2024-07-19 15:31:27 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:27 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:27 |              __main__ |    DEBUG | Time taken for patient AGORL_P91 : 0.00 minutes.
+2024-07-19 15:31:27 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:27 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P92 -----------------------------------
+2024-07-19 15:31:27 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:27 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:27 |              __main__ |    DEBUG | Time taken for patient AGORL_P92 : 0.00 minutes.
+2024-07-19 15:31:27 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:27 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P93 -----------------------------------
+2024-07-19 15:31:28 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:28 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:28 |              __main__ |    DEBUG | Time taken for patient AGORL_P93 : 0.01 minutes.
+2024-07-19 15:31:28 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:28 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P94 -----------------------------------
+2024-07-19 15:31:28 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:28 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:28 |              __main__ |    DEBUG | Time taken for patient AGORL_P94 : 0.00 minutes.
+2024-07-19 15:31:28 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:28 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P95 -----------------------------------
+2024-07-19 15:31:28 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:28 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:28 |              __main__ |    DEBUG | Time taken for patient AGORL_P95 : 0.00 minutes.
+2024-07-19 15:31:28 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:28 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P96 -----------------------------------
+2024-07-19 15:31:29 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:29 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:29 |              __main__ |    DEBUG | Time taken for patient AGORL_P96 : 0.00 minutes.
+2024-07-19 15:31:29 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:29 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P97 -----------------------------------
+2024-07-19 15:31:29 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:29 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:29 |              __main__ |    DEBUG | Time taken for patient AGORL_P97 : 0.01 minutes.
+2024-07-19 15:31:29 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:29 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P98 -----------------------------------
+2024-07-19 15:31:29 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:29 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:29 |              __main__ |    DEBUG | Time taken for patient AGORL_P98 : 0.00 minutes.
+2024-07-19 15:31:29 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:29 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P99 -----------------------------------
+2024-07-19 15:31:29 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:29 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:30 |              __main__ |    DEBUG | Time taken for patient AGORL_P99 : 0.00 minutes.
+2024-07-19 15:31:30 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:30 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P100-----------------------------------
+2024-07-19 15:31:30 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:30 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:30 |              __main__ |    DEBUG | Time taken for patient AGORL_P100 : 0.00 minutes.
+2024-07-19 15:31:30 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:30 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P101-----------------------------------
+2024-07-19 15:31:30 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:30 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:30 |              __main__ |    DEBUG | Time taken for patient AGORL_P101 : 0.00 minutes.
+2024-07-19 15:31:30 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:30 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P102-----------------------------------
+2024-07-19 15:31:30 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:30 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:30 |              __main__ |    DEBUG | Time taken for patient AGORL_P102 : 0.01 minutes.
+2024-07-19 15:31:30 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:30 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P103-----------------------------------
+2024-07-19 15:31:31 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:31 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:31 |              __main__ |    DEBUG | Time taken for patient AGORL_P103 : 0.00 minutes.
+2024-07-19 15:31:31 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:31 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P104-----------------------------------
+2024-07-19 15:31:31 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:31 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:31 |              __main__ |    DEBUG | Time taken for patient AGORL_P104 : 0.01 minutes.
+2024-07-19 15:31:31 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:31 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P105-----------------------------------
+2024-07-19 15:31:31 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:31 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:31 |              __main__ |    DEBUG | Time taken for patient AGORL_P105 : 0.01 minutes.
+2024-07-19 15:31:31 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:31 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P106-----------------------------------
+2024-07-19 15:31:31 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:31 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:31 |              __main__ |    DEBUG | Time taken for patient AGORL_P106 : 0.00 minutes.
+2024-07-19 15:31:31 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:31 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P107-----------------------------------
+2024-07-19 15:31:32 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:32 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:32 |              __main__ |    DEBUG | Time taken for patient AGORL_P107 : 0.01 minutes.
+2024-07-19 15:31:32 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:32 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P108-----------------------------------
+2024-07-19 15:31:32 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:32 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:32 |              __main__ |    DEBUG | Time taken for patient AGORL_P108 : 0.01 minutes.
+2024-07-19 15:31:32 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:32 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P109-----------------------------------
+2024-07-19 15:31:32 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:32 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:32 |              __main__ |    DEBUG | Time taken for patient AGORL_P109 : 0.01 minutes.
+2024-07-19 15:31:32 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:32 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P110-----------------------------------
+2024-07-19 15:31:33 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:33 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:33 |              __main__ |    DEBUG | Time taken for patient AGORL_P110 : 0.01 minutes.
+2024-07-19 15:31:33 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:33 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P111-----------------------------------
+2024-07-19 15:31:33 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:33 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:33 |              __main__ |    DEBUG | Time taken for patient AGORL_P111 : 0.01 minutes.
+2024-07-19 15:31:33 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:33 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P112-----------------------------------
+2024-07-19 15:31:33 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:33 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:33 |              __main__ |    DEBUG | Time taken for patient AGORL_P112 : 0.00 minutes.
+2024-07-19 15:31:33 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:33 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P113-----------------------------------
+2024-07-19 15:31:34 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:34 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:34 |              __main__ |    DEBUG | Time taken for patient AGORL_P113 : 0.01 minutes.
+2024-07-19 15:31:34 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:34 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P114-----------------------------------
+2024-07-19 15:31:34 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:34 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:34 |              __main__ |    DEBUG | Time taken for patient AGORL_P114 : 0.01 minutes.
+2024-07-19 15:31:34 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:34 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P115-----------------------------------
+2024-07-19 15:31:34 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:34 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:34 |              __main__ |    DEBUG | Time taken for patient AGORL_P115 : 0.01 minutes.
+2024-07-19 15:31:34 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:34 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P116-----------------------------------
+2024-07-19 15:31:35 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:35 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:35 |              __main__ |    DEBUG | Time taken for patient AGORL_P116 : 0.00 minutes.
+2024-07-19 15:31:35 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:35 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P117-----------------------------------
+2024-07-19 15:31:35 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:35 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:35 |              __main__ |    DEBUG | Time taken for patient AGORL_P117 : 0.01 minutes.
+2024-07-19 15:31:35 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:35 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P118-----------------------------------
+2024-07-19 15:31:35 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:35 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:35 |              __main__ |    DEBUG | Time taken for patient AGORL_P118 : 0.01 minutes.
+2024-07-19 15:31:35 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:35 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P119-----------------------------------
+2024-07-19 15:31:36 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:36 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:36 |              __main__ |    DEBUG | Time taken for patient AGORL_P119 : 0.01 minutes.
+2024-07-19 15:31:36 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:36 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P120-----------------------------------
+2024-07-19 15:31:36 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:36 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:36 |              __main__ |    DEBUG | Time taken for patient AGORL_P120 : 0.01 minutes.
+2024-07-19 15:31:36 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:36 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P121-----------------------------------
+2024-07-19 15:31:36 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:36 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:36 |              __main__ |    DEBUG | Time taken for patient AGORL_P121 : 0.01 minutes.
+2024-07-19 15:31:36 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:36 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P122-----------------------------------
+2024-07-19 15:31:37 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:37 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:37 |              __main__ |    DEBUG | Time taken for patient AGORL_P122 : 0.00 minutes.
+2024-07-19 15:31:37 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:37 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P124-----------------------------------
+2024-07-19 15:31:37 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:37 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:37 |              __main__ |    DEBUG | Time taken for patient AGORL_P124 : 0.00 minutes.
+2024-07-19 15:31:37 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:37 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P125-----------------------------------
+2024-07-19 15:31:37 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:37 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:37 |              __main__ |    DEBUG | Time taken for patient AGORL_P125 : 0.00 minutes.
+2024-07-19 15:31:37 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:37 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P126-----------------------------------
+2024-07-19 15:31:37 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:37 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:38 |              __main__ |    DEBUG | Time taken for patient AGORL_P126 : 0.01 minutes.
+2024-07-19 15:31:38 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:38 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P127-----------------------------------
+2024-07-19 15:31:38 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:38 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:38 |              __main__ |    DEBUG | Time taken for patient AGORL_P127 : 0.00 minutes.
+2024-07-19 15:31:38 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:38 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P128-----------------------------------
+2024-07-19 15:31:38 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:38 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:38 |              __main__ |    DEBUG | Time taken for patient AGORL_P128 : 0.00 minutes.
+2024-07-19 15:31:38 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:38 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P129-----------------------------------
+2024-07-19 15:31:38 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:38 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:38 |              __main__ |    DEBUG | Time taken for patient AGORL_P129 : 0.01 minutes.
+2024-07-19 15:31:38 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:38 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P130-----------------------------------
+2024-07-19 15:31:39 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:39 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:39 |              __main__ |    DEBUG | Time taken for patient AGORL_P130 : 0.01 minutes.
+2024-07-19 15:31:39 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:39 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P131-----------------------------------
+2024-07-19 15:31:39 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:39 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:39 |              __main__ |    DEBUG | Time taken for patient AGORL_P131 : 0.01 minutes.
+2024-07-19 15:31:39 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:39 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P132-----------------------------------
+2024-07-19 15:31:39 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:39 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:39 |              __main__ |    DEBUG | Time taken for patient AGORL_P132 : 0.00 minutes.
+2024-07-19 15:31:39 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:39 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P133-----------------------------------
+2024-07-19 15:31:40 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:40 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:40 |              __main__ |    DEBUG | Time taken for patient AGORL_P133 : 0.01 minutes.
+2024-07-19 15:31:40 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:40 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P134-----------------------------------
+2024-07-19 15:31:40 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:40 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:40 |              __main__ |    DEBUG | Time taken for patient AGORL_P134 : 0.00 minutes.
+2024-07-19 15:31:40 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:40 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P136-----------------------------------
+2024-07-19 15:31:40 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:40 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:40 |              __main__ |    DEBUG | Time taken for patient AGORL_P136 : 0.01 minutes.
+2024-07-19 15:31:40 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:40 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P137-----------------------------------
+2024-07-19 15:31:41 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:41 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:41 |              __main__ |    DEBUG | Time taken for patient AGORL_P137 : 0.01 minutes.
+2024-07-19 15:31:41 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:41 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P139-----------------------------------
+2024-07-19 15:31:41 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:41 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:41 |              __main__ |    DEBUG | Time taken for patient AGORL_P139 : 0.00 minutes.
+2024-07-19 15:31:41 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:41 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P140-----------------------------------
+2024-07-19 15:31:41 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:41 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:41 |              __main__ |    DEBUG | Time taken for patient AGORL_P140 : 0.00 minutes.
+2024-07-19 15:31:41 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:41 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P141-----------------------------------
+2024-07-19 15:31:42 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:42 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:42 |              __main__ |    DEBUG | Time taken for patient AGORL_P141 : 0.01 minutes.
+2024-07-19 15:31:42 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:42 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P142-----------------------------------
+2024-07-19 15:31:42 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:42 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:42 |              __main__ |    DEBUG | Time taken for patient AGORL_P142 : 0.00 minutes.
+2024-07-19 15:31:42 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:42 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P143-----------------------------------
+2024-07-19 15:31:42 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:42 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:42 |              __main__ |    DEBUG | Time taken for patient AGORL_P143 : 0.00 minutes.
+2024-07-19 15:31:42 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:42 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P144-----------------------------------
+2024-07-19 15:31:42 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:42 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:42 |              __main__ |    DEBUG | Time taken for patient AGORL_P144 : 0.00 minutes.
+2024-07-19 15:31:42 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:42 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P145-----------------------------------
+2024-07-19 15:31:43 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:43 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:43 |              __main__ |    DEBUG | Time taken for patient AGORL_P145 : 0.00 minutes.
+2024-07-19 15:31:43 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:43 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P146-----------------------------------
+2024-07-19 15:31:43 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:43 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:43 |              __main__ |    DEBUG | Time taken for patient AGORL_P146 : 0.00 minutes.
+2024-07-19 15:31:43 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:43 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P147-----------------------------------
+2024-07-19 15:31:43 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:43 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:43 |              __main__ |    DEBUG | Time taken for patient AGORL_P147 : 0.01 minutes.
+2024-07-19 15:31:43 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:43 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P148-----------------------------------
+2024-07-19 15:31:44 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:44 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:44 |              __main__ |    DEBUG | Time taken for patient AGORL_P148 : 0.00 minutes.
+2024-07-19 15:31:44 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:44 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P149-----------------------------------
+2024-07-19 15:31:44 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:44 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:44 |              __main__ |    DEBUG | Time taken for patient AGORL_P149 : 0.00 minutes.
+2024-07-19 15:31:44 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:44 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P151-----------------------------------
+2024-07-19 15:31:44 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:44 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:44 |              __main__ |    DEBUG | Time taken for patient AGORL_P151 : 0.00 minutes.
+2024-07-19 15:31:44 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:44 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P152-----------------------------------
+2024-07-19 15:31:44 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:44 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:44 |              __main__ |    DEBUG | Time taken for patient AGORL_P152 : 0.01 minutes.
+2024-07-19 15:31:44 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:44 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P153-----------------------------------
+2024-07-19 15:31:45 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:45 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:45 |              __main__ |    DEBUG | Time taken for patient AGORL_P153 : 0.01 minutes.
+2024-07-19 15:31:45 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:45 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P154-----------------------------------
+2024-07-19 15:31:45 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:45 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:45 |              __main__ |    DEBUG | Time taken for patient AGORL_P154 : 0.00 minutes.
+2024-07-19 15:31:45 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:45 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P155-----------------------------------
+2024-07-19 15:31:45 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:45 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:45 |              __main__ |    DEBUG | Time taken for patient AGORL_P155 : 0.00 minutes.
+2024-07-19 15:31:45 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:45 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P156-----------------------------------
+2024-07-19 15:31:46 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:46 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:46 |              __main__ |    DEBUG | Time taken for patient AGORL_P156 : 0.00 minutes.
+2024-07-19 15:31:46 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:46 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P157-----------------------------------
+2024-07-19 15:31:46 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:46 |     generate_phantoms |    DEBUG | junction_bottom = False
+2024-07-19 15:31:46 |              __main__ |    DEBUG | Time taken for patient AGORL_P157 : 0.00 minutes.
+2024-07-19 15:31:46 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:46 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P158-----------------------------------
+2024-07-19 15:31:46 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:46 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:46 |              __main__ |    DEBUG | Time taken for patient AGORL_P158 : 0.00 minutes.
+2024-07-19 15:31:46 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:46 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P159-----------------------------------
+2024-07-19 15:31:46 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:46 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:46 |              __main__ |    DEBUG | Time taken for patient AGORL_P159 : 0.00 minutes.
+2024-07-19 15:31:46 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:46 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P160-----------------------------------
+2024-07-19 15:31:47 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:47 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:47 |              __main__ |    DEBUG | Time taken for patient AGORL_P160 : 0.01 minutes.
+2024-07-19 15:31:47 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:47 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P161-----------------------------------
+2024-07-19 15:31:47 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:47 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:47 |              __main__ |    DEBUG | Time taken for patient AGORL_P161 : 0.01 minutes.
+2024-07-19 15:31:47 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:47 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P162-----------------------------------
+2024-07-19 15:31:47 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:47 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:47 |              __main__ |    DEBUG | Time taken for patient AGORL_P162 : 0.00 minutes.
+2024-07-19 15:31:47 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:47 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P163-----------------------------------
+2024-07-19 15:31:48 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:48 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:48 |              __main__ |    DEBUG | Time taken for patient AGORL_P163 : 0.01 minutes.
+2024-07-19 15:31:48 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:48 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P164-----------------------------------
+2024-07-19 15:31:48 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:48 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:48 |              __main__ |    DEBUG | Time taken for patient AGORL_P164 : 0.00 minutes.
+2024-07-19 15:31:48 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:48 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P166-----------------------------------
+2024-07-19 15:31:48 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:48 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:48 |              __main__ |    DEBUG | Time taken for patient AGORL_P166 : 0.00 minutes.
+2024-07-19 15:31:48 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:48 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P167-----------------------------------
+2024-07-19 15:31:48 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:48 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:48 |              __main__ |    DEBUG | Time taken for patient AGORL_P167 : 0.00 minutes.
+2024-07-19 15:31:48 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:48 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P168-----------------------------------
+2024-07-19 15:31:49 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:49 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:49 |              __main__ |    DEBUG | Time taken for patient AGORL_P168 : 0.01 minutes.
+2024-07-19 15:31:49 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:49 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P169-----------------------------------
+2024-07-19 15:31:49 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:49 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:49 |              __main__ |    DEBUG | Time taken for patient AGORL_P169 : 0.00 minutes.
+2024-07-19 15:31:49 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:49 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P171-----------------------------------
+2024-07-19 15:31:49 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:49 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:49 |              __main__ |    DEBUG | Time taken for patient AGORL_P171 : 0.01 minutes.
+2024-07-19 15:31:49 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:49 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P172-----------------------------------
+2024-07-19 15:31:50 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:50 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:50 |              __main__ |    DEBUG | Time taken for patient AGORL_P172 : 0.00 minutes.
+2024-07-19 15:31:50 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:50 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P173-----------------------------------
+2024-07-19 15:31:50 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:50 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:50 |              __main__ |    DEBUG | Time taken for patient AGORL_P173 : 0.01 minutes.
+2024-07-19 15:31:50 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:50 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P174-----------------------------------
+2024-07-19 15:31:50 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:50 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:50 |              __main__ |    DEBUG | Time taken for patient AGORL_P174 : 0.01 minutes.
+2024-07-19 15:31:50 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:50 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P175-----------------------------------
+2024-07-19 15:31:51 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:51 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:51 |              __main__ |    DEBUG | Time taken for patient AGORL_P175 : 0.00 minutes.
+2024-07-19 15:31:51 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:51 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P176-----------------------------------
+2024-07-19 15:31:51 |     generate_phantoms |    DEBUG | junction_top = True
+2024-07-19 15:31:51 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:51 |              __main__ |    DEBUG | Time taken for patient AGORL_P176 : 0.00 minutes.
+2024-07-19 15:31:51 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:51 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P177-----------------------------------
+2024-07-19 15:31:51 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:51 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:51 |              __main__ |    DEBUG | Time taken for patient AGORL_P177 : 0.01 minutes.
+2024-07-19 15:31:51 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:51 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P178-----------------------------------
+2024-07-19 15:31:51 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:51 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:51 |              __main__ |    DEBUG | Time taken for patient AGORL_P178 : 0.00 minutes.
+2024-07-19 15:31:51 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:51 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P179-----------------------------------
+2024-07-19 15:31:52 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:52 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:52 |              __main__ |    DEBUG | Time taken for patient AGORL_P179 : 0.01 minutes.
+2024-07-19 15:31:52 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:52 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P180-----------------------------------
+2024-07-19 15:31:52 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:52 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:52 |              __main__ |    DEBUG | Time taken for patient AGORL_P180 : 0.01 minutes.
+2024-07-19 15:31:52 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:52 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P181-----------------------------------
+2024-07-19 15:31:52 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:52 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:52 |              __main__ |    DEBUG | Time taken for patient AGORL_P181 : 0.01 minutes.
+2024-07-19 15:31:52 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:52 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P182-----------------------------------
+2024-07-19 15:31:53 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:53 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:53 |              __main__ |    DEBUG | Time taken for patient AGORL_P182 : 0.01 minutes.
+2024-07-19 15:31:53 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:53 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P184-----------------------------------
+2024-07-19 15:31:53 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:53 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:53 |              __main__ |    DEBUG | Time taken for patient AGORL_P184 : 0.01 minutes.
+2024-07-19 15:31:53 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:53 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P185-----------------------------------
+2024-07-19 15:31:53 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:53 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:53 |              __main__ |    DEBUG | Time taken for patient AGORL_P185 : 0.00 minutes.
+2024-07-19 15:31:53 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:53 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P186-----------------------------------
+2024-07-19 15:31:54 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:54 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:54 |              __main__ |    DEBUG | Time taken for patient AGORL_P186 : 0.00 minutes.
+2024-07-19 15:31:54 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:54 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P188-----------------------------------
+2024-07-19 15:31:54 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:54 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:54 |              __main__ |    DEBUG | Time taken for patient AGORL_P188 : 0.00 minutes.
+2024-07-19 15:31:54 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:54 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P189-----------------------------------
+2024-07-19 15:31:54 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:54 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:54 |              __main__ |    DEBUG | Time taken for patient AGORL_P189 : 0.01 minutes.
+2024-07-19 15:31:54 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:54 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P190-----------------------------------
+2024-07-19 15:31:55 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:55 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:55 |              __main__ |    DEBUG | Time taken for patient AGORL_P190 : 0.00 minutes.
+2024-07-19 15:31:55 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:55 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P191-----------------------------------
+2024-07-19 15:31:55 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:55 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:55 |              __main__ |    DEBUG | Time taken for patient AGORL_P191 : 0.01 minutes.
+2024-07-19 15:31:55 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:55 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P192-----------------------------------
+2024-07-19 15:31:55 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:55 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:55 |              __main__ |    DEBUG | Time taken for patient AGORL_P192 : 0.00 minutes.
+2024-07-19 15:31:55 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:55 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P193-----------------------------------
+2024-07-19 15:31:55 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:55 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:55 |              __main__ |    DEBUG | Time taken for patient AGORL_P193 : 0.00 minutes.
+2024-07-19 15:31:55 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:55 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P194-----------------------------------
+2024-07-19 15:31:56 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:56 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:56 |              __main__ |    DEBUG | Time taken for patient AGORL_P194 : 0.01 minutes.
+2024-07-19 15:31:56 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:56 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P195-----------------------------------
+2024-07-19 15:31:56 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:56 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:56 |              __main__ |    DEBUG | Time taken for patient AGORL_P195 : 0.00 minutes.
+2024-07-19 15:31:56 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:56 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P196-----------------------------------
+2024-07-19 15:31:56 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:56 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:56 |              __main__ |    DEBUG | Time taken for patient AGORL_P196 : 0.01 minutes.
+2024-07-19 15:31:56 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:56 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P197-----------------------------------
+2024-07-19 15:31:56 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:56 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:57 |              __main__ |    DEBUG | Time taken for patient AGORL_P197 : 0.00 minutes.
+2024-07-19 15:31:57 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:57 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P198-----------------------------------
+2024-07-19 15:31:57 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:57 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:57 |              __main__ |    DEBUG | Time taken for patient AGORL_P198 : 0.00 minutes.
+2024-07-19 15:31:57 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:57 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P199-----------------------------------
+2024-07-19 15:31:57 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:57 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:57 |              __main__ |    DEBUG | Time taken for patient AGORL_P199 : 0.01 minutes.
+2024-07-19 15:31:57 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------
+2024-07-19 15:31:57 |              __main__ |    DEBUG | ----------------------------------- iterating over Patient AGORL_P200-----------------------------------
+2024-07-19 15:31:57 |     generate_phantoms |    DEBUG | junction_top = False
+2024-07-19 15:31:57 |     generate_phantoms |    DEBUG | junction_bottom = True
+2024-07-19 15:31:57 |              __main__ |    DEBUG | Time taken for patient AGORL_P200 : 0.00 minutes.
+2024-07-19 15:31:57 |              __main__ |    DEBUG | --------------------------------------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 from .utils import get_logger, add_bad_patient
 from .constants import DIR_WORKSPACE
 
-import pydicom as dcm
+import pandas as pd
 import traceback
 import shutil
 import time
@@ -71,4 +71,53 @@ def generate_contours(patient: str):
 
 
 def filter_phantoms(patient):
-    pass
+
+    from phandose.phantom.filter_phantoms import PhantomFilter
+
+    logger.debug(f"Filtering phantoms for patient {patient}...")
+    start_time = time.time()
+
+    try:
+        df_patient_characteristics = pd.read_csv(DIR_WORKSPACE / patient / "XYZ" / "patient_characteristics.csv",
+                                                 sep=";")
+        df_contours = pd.read_csv(DIR_WORKSPACE / patient / "XYZ" / "contours.csv", sep=";")
+
+        phantom_filter = PhantomFilter(df_contours=df_contours, df_patient_characteristics=df_patient_characteristics)
+        list_filtered_phantoms = phantom_filter.filter()
+
+        logger.debug(f"Number of filtered phantoms for patient {patient} : {len(list_filtered_phantoms)}")
+
+        with open(DIR_WORKSPACE / patient / "XYZ" / "filtered_phantoms.txt", "w") as file:
+            for phantom in list_filtered_phantoms:
+                file.write(f"{phantom}\n")
+
+        time_taken = time.time() - start_time
+        logger.debug(f"Phantoms for patient {patient} filtered successfully in {time_taken:.2f} seconds")
+
+    except Exception as e:
+        add_bad_patient(patient)
+        logger.error(f"Failed to filter phantoms for patient {patient} !")
+        logger.error(e)
+        logger.error(traceback.format_exc())
+
+
+def needed_junctions(patient: str):
+
+    path_patient_characteristics = DIR_WORKSPACE / patient / "XYZ" / "patient_characteristics.csv"
+    path_contours = DIR_WORKSPACE / patient / "XYZ" / "contours.csv"
+    try:
+        df_patient_characteristics = pd.read_csv(path_patient_characteristics, sep=";")
+        df_contours = pd.read_csv(path_contours, sep=";")
+
+        from phandose.junctions import JunctionHandler
+
+        junction = JunctionHandler(df_contours, df_patient_characteristics)
+
+        logger.debug(fr"junction_top = {junction.is_top_junction()}")
+        logger.debug(fr"junction_bottom = {junction.is_bottom_junction()}")
+
+    except Exception as e:
+        add_bad_patient(patient)
+        logger.error(f"Failed to create junctions for patient {patient} !")
+        logger.error(e)
+        logger.error(traceback.format_exc())

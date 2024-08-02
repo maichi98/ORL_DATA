@@ -4,7 +4,6 @@ from .constants import DIR_WORKSPACE
 
 import dicom2nifti
 import traceback
-import logging
 import shutil
 import time
 import os
@@ -44,6 +43,11 @@ def run_totalsegmentator_for_total_task(patient):
     start_time = time.time()
 
     path_nifti_ct = DIR_WORKSPACE / patient / "temp" / "CT.nii.gz"
+    if not path_nifti_ct.exists():
+        add_bad_patient(patient)
+        logger.error(fr"Failed to run TotalSegmentator  task=total for patient {patient} !")
+        logger.error("The NIFTI CT file doesn't exist !")
+        return
 
     dir_nifti_total = DIR_WORKSPACE / patient / "NIFTI_FROM_CT"
     dir_nifti_total.mkdir(exist_ok=True, parents=True)
@@ -70,6 +74,11 @@ def run_totalsegmentator_for_body_task(patient):
     start_time = time.time()
 
     path_nifti_ct = DIR_WORKSPACE / patient / "temp" / "CT.nii.gz"
+    if not path_nifti_ct.exists():
+        add_bad_patient(patient)
+        logger.error(fr"Failed to run TotalSegmentator  task=total for patient {patient} !")
+        logger.error("The NIFTI CT file doesn't exist !")
+        return
 
     dir_nifti_body = DIR_WORKSPACE / patient / "temp" / "body"
     dir_nifti_body.mkdir(exist_ok=True, parents=True)
@@ -83,10 +92,10 @@ def run_totalsegmentator_for_body_task(patient):
             shutil.copy(dir_nifti_body / file, DIR_WORKSPACE / patient / "NIFTI_FROM_CT" / file)
 
         time_taken = time.time() - start_time
-        logger.debug(f"TotalSegmentator task=total for patient {patient} ran successfully in {time_taken:.2f} seconds")
+        logger.debug(f"TotalSegmentator task=body for patient {patient} ran successfully in {time_taken:.2f} seconds")
 
     except Exception as e:
         add_bad_patient(patient)
-        logger.error(fr"Failed to run TotalSegmentator  task=total for patient {patient} !")
+        logger.error(fr"Failed to run TotalSegmentator  task=body for patient {patient} !")
         logger.error(e)
         logger.error(traceback.format_exc())

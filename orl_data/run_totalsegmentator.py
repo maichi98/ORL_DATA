@@ -54,7 +54,7 @@ def run_totalsegmentator_for_total_task(patient):
 
     # run TotalSegmentator :
     try:
-        totalsegmentator(path_nifti_ct, dir_nifti_total, task="total", body_seg=False, output_type="nifti")
+        totalsegmentator(path_nifti_ct, dir_nifti_total, task="total", body_seg=False, output_type="dicom")
 
         time_taken = time.time() - start_time
         logger.debug(f"TotalSegmentator task=total for patient {patient} ran successfully in {time_taken:.2f} seconds")
@@ -85,7 +85,7 @@ def run_totalsegmentator_for_body_task(patient):
 
     # run TotalSegmentator :
     try:
-        totalsegmentator(path_nifti_ct, dir_nifti_body, task="body", body_seg=False, output_type="nifti")
+        totalsegmentator(path_nifti_ct, dir_nifti_body, task="body", body_seg=False, output_type="dicom")
 
         # Copy the body segmentations to the workspace :
         for file in os.listdir(dir_nifti_body):
